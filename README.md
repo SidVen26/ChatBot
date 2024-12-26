@@ -2,7 +2,7 @@
 
 I used code related to the tutorial on [building a Python chatbot with ChatterBot](https://realpython.com/build-a-chatbot-python-chatterbot/), to begin building my chatBot and from there have built upon it to make a chat bot that recommends tv/movies to a user.
 
-<h3>Next steps</h3>
+<h3>Next steps:</h3>
 <p>I'm going to create a GUI for my chatbot and continue to give it more prompts to train and build up its accuracy and make it more user friendly</p>
 
 
