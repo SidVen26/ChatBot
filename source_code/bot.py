@@ -10,7 +10,7 @@ chatbot = ChatBot("Chatbot")
 trainer = ListTrainer(chatbot)
 
 cleaned_corpus = clean_corpus(CORPUS_FILE)
-trainer.train(cleaned_corpus)
+trainer.train(cleaned_corpus) 
 
 exit_conditions = (":q", "quit", "exit")
 while True:
